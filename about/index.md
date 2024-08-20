@@ -12,3 +12,6 @@ Em 2023, participaram 726 times de 181 instituições de todo o país, dos quais
 Os times são compostos por três estudantes, que tentarão resolver durante cinco horas o maior número possível dos dez ou mais problemas fornecidos. Eles têm à sua disposição apenas um computador e material impresso (livros, listagens, manuais, etc.) para vencer a batalha contra o relógio e a prova proposta. Os competidores do time devem colaborar para descobrir os problemas mais fáceis, projetar os testes, e construir as soluções que sejam aprovadas pelos juízes da competição.
 
 Para participar, procure um professor da sua instituição para ser o responsável pela inscrição dos times!
+
+Para mais informações sobre regras e o dia da competição:
+[https://maratona.sbc.org.br/primeira-fase.html](https://maratona.sbc.org.br/primeira-fase.html)
