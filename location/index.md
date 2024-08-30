@@ -2,10 +2,10 @@
 layout: location
 ---
 
-A Sede Regional de Viçosa da Maratona SBC de Programação ocorrerá no campus da Universidade Federal de Viçosa, em dois locais distintos, bem próximos entre si:
+A Sede Regional de Viçosa da Maratona SBC de Programação ocorrerá no campus da Universidade Federal de Viçosa (UFV), especificamente no Centro de Ciências Exatas e Tecnológicas (CCE), o prédio vermelho entre o Banco do Brasil e o Supermercado Escola:
 
-- as provas (sessão de aquecimento e a maratona) ocorrerão no Laboratório LBI do Departamento de Informática da UFV. O Laboratório LBI está localizado no segundo andar do prédio da Caixa Econômica Federal.
-- as demais atividades (credenciamento, abertura e encerramento) ocorrerão no auditório do Centro de Ciências Exatas (CCE). O auditório está localizado no 1º andar do prédio do CCE, o prédio vermelho entre o Banco do Brasil e o Supermercado Escola.
+- as provas (sessão de aquecimento e a maratona) ocorrerão nos Laboratórios do Departamento de Informática, que estão localizados no 4º andar do prédio do CCE.
+- as demais atividades (credenciamento, abertura e encerramento) ocorrerão no Auditório do CCE, que está localizado no 1º andar do prédio.
 
 #### Hospedagem
 
