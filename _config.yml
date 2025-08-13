@@ -21,9 +21,9 @@
 title: Maratona SBC de Programação
 email: lucas.n.ferreira@ufv.br
 description: >- # this means to ignore newlines until "baseurl:"
- Seja muito bem-vindo ao site da regional Viçosa da Maratona SBC de Programação 2024, organizada pelo Departamento de Informática da Universidade Federal de Viçosa. Aqui você encontrará informações sobre a competição, a programação, as inscrições, a localização e muito mais.
-baseurl: "/maratona-sbc-ufv" # the subpath of your site, e.g. /blog
-url: "https://lucasnfe.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+ Seja muito bem-vindo ao site da regional Viçosa da Maratona SBC de Programação 2025, organizada pelo Departamento de Informática da Universidade Federal de Viçosa. Aqui você encontrará informações sobre a competição, a programação, as inscrições, a localização e muito mais.
+baseurl: "/maratona-sbc" # the subpath of your site, e.g. /blog
+url: "https://maratonaufv.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
