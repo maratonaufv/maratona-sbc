@@ -5,13 +5,21 @@
 layout: home
 ---
 
-<img src="{{ '/assets/imgs/IMG_0158.jpg' | relative_url }}" width="1200">
+<img src="{{ '/assets/imgs/IMG_9879.jpg' | relative_url }}" width="1200">
 
 ----
 
 ## Patrocinadores
 
-#### Ouro
+<div>
+
+<img src="{{ '/assets/imgs/sponsors/bitka-bip2.png' | relative_url }}" style="margin:20px;" width="125">
+<img src="{{ '/assets/imgs/sponsors/levty.png' | relative_url }}"  style="margin:10px;" width="200">
+<img src="{{ '/assets/imgs/sponsors/funarbe.png' | relative_url }}" style="margin:20px;" width="150">
+
+</div>
+
+<!-- #### Ouro
 
 <div>
 <img src="{{ '/assets/imgs/sponsors/bitka.png' | relative_url }}" style="margin:20px;" width="125">
@@ -29,4 +37,4 @@ layout: home
 #### Bronze
 
 <img src="{{ '/assets/imgs/sponsors/dpi.png' | relative_url }}" style="margin:20px;" width="100">
-<img src="{{ '/assets/imgs/sponsors/funarbe.png' | relative_url }}" style="margin:20px;" width="150">
+<img src="{{ '/assets/imgs/sponsors/funarbe.png' | relative_url }}" style="margin:20px;" width="150"> -->
