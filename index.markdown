@@ -13,8 +13,8 @@ layout: home
 
 <div>
 
-<img src="{{ '/assets/imgs/sponsors/bitka-bip2.png' | relative_url }}" style="margin:20px;" width="125">
-<img src="{{ '/assets/imgs/sponsors/levty.png' | relative_url }}"  style="margin:10px;" width="200">
+<img src="{{ '/assets/imgs/sponsors/bitka-bip2.png' | relative_url }}" style="margin:20px;" width="150">
+<img src="{{ '/assets/imgs/sponsors/levty.png' | relative_url }}"  style="margin:10px;" width="150">
 <img src="{{ '/assets/imgs/sponsors/funarbe.png' | relative_url }}" style="margin:20px;" width="150">
 
 </div>
